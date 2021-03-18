@@ -1,6 +1,6 @@
 hola soy Yunior iniciandome en Git
 
-Esta es mi segunda clase del curso profesional de Git y GitHub
-
+Esta es mi segunda clase del curso profesional de Git y GitHub. Soy alumno Platzi
+Estoy viviendo en espinar
 Espero aprender mucho
 :)
