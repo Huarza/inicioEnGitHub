@@ -1,0 +1,6 @@
+hola soy Yunior iniciandome en Git
+
+Esta es mi segunda clase del curso profesional de Git y GitHub
+
+Espero aprender mucho
+:)
