@@ -1,0 +1,55 @@
+[33mcommit e52f4311a1b7ead6e8130c558132345f3330f3b5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Oscar Yunior <ohuarza@unsa.edu.pe>
+Date:   Thu Mar 18 23:07:01 2021 -0500
+
+    reemplazo de la primera vercion a la cabeza
+
+ index.txt | 11 [32m+++[m[31m--------[m
+ 1 file changed, 3 insertions(+), 8 deletions(-)
+
+[33mcommit cbdfd8e3983ceed446ba1a99bf92ec2a3efe105a[m
+Author: Oscar Yunior <ohuarza@unsa.edu.pe>
+Date:   Thu Mar 18 22:50:13 2021 -0500
+
+    agregamos la preferencia politica
+
+ index.txt | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+
+[33mcommit b31797e90b67211079da6a544653b99fc166311f[m
+Author: Oscar Yunior <ohuarza@unsa.edu.pe>
+Date:   Thu Mar 18 22:47:39 2021 -0500
+
+    agregamos el gusto por el camote
+
+ index.txt | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+
+[33mcommit c026c17364e929503a8580f57660c3b450d5c53a[m
+Author: Oscar Yunior <ohuarza@unsa.edu.pe>
+Date:   Thu Mar 18 22:45:59 2021 -0500
+
+    agregamos el proyecto real
+
+ blog.html       | 12 [32m++++++++++++[m
+ css/estilos.css |  5 [32m+++++[m
+ index.txt       |  2 [32m++[m
+ 3 files changed, 19 insertions(+)
+
+[33mcommit 386649f8a3d17255559dc393811c3885a60b5d9e[m
+Author: Oscar Yunior <ohuarza@unsa.edu.pe>
+Date:   Wed Mar 17 22:04:46 2021 -0500
+
+    este es el segundo commit
+
+ index.txt | 4 [32m++[m[31m--[m
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+[33mcommit fec298862ce7406573dc50eaedb2e668c2fcc198[m
+Author: Oscar Yunior <ohuarza@unsa.edu.pe>
+Date:   Wed Mar 17 21:59:26 2021 -0500
+
+    este es mi primer commit
+
+ index.txt | 6 [32m++++++[m
+ 1 file changed, 6 insertions(+)
