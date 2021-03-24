@@ -1,4 +1,4 @@
-hola soy Yunior iniciandome en Git
+﻿hola soy Yunior iniciandome en Git
 
 Esta es mi segunda clase del curso profesional de Git y GitHub
 
@@ -10,3 +10,8 @@ hOLAAAAA soy yooooo
 
 
 hola papu quiero decirte que soy un wey muy wey
+
+amo a emilia
+
+
+  
